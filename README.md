@@ -17,7 +17,7 @@ It showcases a modern food delivery service with beautiful layouts, smooth desig
 
 ## 🔗 Live Demo
 
-👉
+👉 https://omnifood-amity.netlify.app/
 
 ---
 
